@@ -1,6 +1,7 @@
-//Store in local storage
-//Edit
-//Both feilds compulsary
+//1.Store in local storage
+//2.Edit
+//3.Both feilds compulsary
+//4.UI
 
 let todoList = [
     {item: 'Buy Milk', dueDate: '4/10/2023'},
